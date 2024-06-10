@@ -1,5 +1,7 @@
 # IPL Win Prediction App
-
+### Preview 
+#### Link to site: [click her👆🏻](https://ipl-win-prediction-76g3.onrender.com/) 
+![ipl](https://github.com/jyotirmaya16/IPL_Win_Prediction/assets/146333462/23e7eec2-2e8d-4feb-8c0c-74cea5e4b916)
 ## Overview
 I have developed an end-to-end Python application that predicts which IPL team is likely to win the match. This app utilizes 2008-2023 IPL data and machine learning techniques to generate its predictions.
 
